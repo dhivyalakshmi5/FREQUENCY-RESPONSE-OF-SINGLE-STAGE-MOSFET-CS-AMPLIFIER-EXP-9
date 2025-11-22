@@ -1,26 +1,32 @@
-# FREQUENCY-RESPONSE-OF-SINGLE-STAGE-MOSFET-CS-AMPLIFIER-EXP-9
+ # FREQUENCY-RESPONSE-OF-SINGLE-STAGE-MOSFET-CS-AMPLIFIER-EXP-9
 
 # AIM
-![WhatsApp Image 2025-11-21 at 21 09 41_4fee718f](https://github.com/user-attachments/assets/d12f41e0-d707-4653-a19d-49ec66c554e0)
-
+![WhatsApp Image 2025-11-22 at 12 49 50_90c6098c](https://github.com/user-attachments/assets/e56f890b-efe0-4779-a372-c8b68a8460ba)
 # COMPONENT REQUIRED
-![WhatsApp Image 2025-11-21 at 21 09 41_15110b25](https://github.com/user-attachments/assets/47960271-35d4-43f4-86a8-bf9bb3a15336)
+![WhatsApp Image 2025-11-22 at 12 50 00_29604f7e](https://github.com/user-attachments/assets/6b82587c-55b9-40df-abe4-29fdbcdbb667)
+
 
 # PROCEDURE 
+![WhatsApp Image 2025-11-22 at 12 50 12_7c821439](https://github.com/user-attachments/assets/c61e7157-fdfd-4f4e-be8b-c02506e4301e)
 
-![WhatsApp Image 2025-11-21 at 21 09 42_6864fe0f](https://github.com/user-attachments/assets/fbdc2db5-6fd2-4a50-88de-217ff9c8b366)
+# CIRCUIT DIAGRAM
+![WhatsApp Image 2025-11-22 at 12 51 02_815df50d](https://github.com/user-attachments/assets/b1069127-24a2-4887-b87d-0f6c65b69122)
 
-# BLOCK DIAGRAM  AND CALCULATION 
-![WhatsApp Image 2025-11-21 at 21 00 13_ef60f0e9](https://github.com/user-attachments/assets/e856a7cf-c730-4292-acda-4bab73e73390)
+# MODEL GRAPH
+![WhatsApp Image 2025-11-22 at 12 51 16_2e52a33f](https://github.com/user-attachments/assets/67ce7227-c295-42fd-8fd6-bd666e28c810)
+
+# TABULATION
+![WhatsApp Image 2025-11-22 at 12 51 35_dc52635f](https://github.com/user-attachments/assets/2fc0990c-b541-48e0-9e25-69a8d3a9e070)
+# CALCULATION
+![WhatsApp Image 2025-11-22 at 12 50 23_2b3e2a33](https://github.com/user-attachments/assets/460b681a-537d-4ac8-8b8f-e105ed9ececa)
+![WhatsApp Image 2025-11-22 at 12 51 50_67f4e4d3](https://github.com/user-attachments/assets/86059b88-76d1-4ccd-8032-aef9362ae595)
 
 # GRAPH
+![WhatsApp Image 2025-11-21 at 11 11 41_e8ddf885](https://github.com/user-attachments/assets/de801a4a-0be6-4ab4-9f1d-3c5c22d74a1f)
+# RESULT 
+![WhatsApp Image 2025-11-22 at 12 52 08_3cd1880e](https://github.com/user-attachments/assets/82792e7d-3b29-4a55-871e-a8e6bda31918)
 
 
-![WhatsApp Image 2025-11-13 at 18 33 51_b7be1eca](https://github.com/user-attachments/assets/1b283c06-9840-4b48-be01-e5e519e60d4c)
-
-
-# CALCULATION AND RESULT 
-![WhatsApp Image 2025-11-21 at 21 07 35_e4a33728](https://github.com/user-attachments/assets/fac0650d-2c11-4ed0-ae8c-47166731e472)
 
 
 
